@@ -30,6 +30,6 @@ This project Crawls pdfs, It creates a folder name as icicilombard inside folder
  
 # Running the spiders
 
-  You can run a spider using the scrapy crawl command, such as:
+  Open the terminal go to project path, You can run a spider using the scrapy crawl command, such as:
      
        scrapy crawl icici
