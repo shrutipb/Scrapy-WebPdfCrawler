@@ -1,7 +1,7 @@
 # Scrapy-WebPdfCrawler
 
 Icici lombard Insurance Company Public Disclosures pdf crawler it crwals the pdfs of all quarters of every financial year
-url : https://www.icicilombard.com/about-us/public-disclosure
+  url : https://www.icicilombard.com/about-us/public-disclosure
 
 # Requirements
 1) Python 3.7.8
@@ -21,7 +21,8 @@ This project Crawls pdfs, It creates a folder name as icicilombard inside folder
 
 # spiders
  $ scrapy
- This project contains one spider icicilombard
+ 
+ This project contains one spider : icicilombard
  
  spider crawls the pdfs from same website https://www.icicilombard.com/about-us/public-disclosure
  
