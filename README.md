@@ -5,7 +5,8 @@ Icici lombard Insurance Company Public Disclosures pdf crawler it crwals the pdf
 
 # Requirements
 1) Python 3.7.8
-2) Works on Windows and Linux  
+2) scrapy framework
+3) Works on Windows and Linux  
 
 # Install 
 
