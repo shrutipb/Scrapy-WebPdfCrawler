@@ -1,1 +1,4 @@
+# open project folder in command prompt and  Run in command prompt scrapy crawl icici
+# it creates a new folder called icicilombard inside folder it crawls all quarter pdfs inside every quarter folder from icicilombard insurance public disclosures
+# feel free to ask any queries
 
