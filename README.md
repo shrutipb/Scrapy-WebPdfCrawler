@@ -1,2 +1,5 @@
 # Scrapy-WebPdfCrawler
-Insurance Companies Public Disclosures pdf crawler
+
+Icici lombard Insurance Company Public Disclosures pdf crawler it crwals the pdfs of all quarters of every financial year
+
+# Requirements
