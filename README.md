@@ -1,6 +1,6 @@
 # Scrapy-WebPdfCrawler
 
-Icici lombard Insurance Company Public Disclosures pdf crawler it crwals the pdfs of all quarters of every financial year
+Icici lombard Insurance Company Public Disclosures pdf crawler it crawls the pdfs of all quarters of every financial year
   url : https://www.icicilombard.com/about-us/public-disclosure
 
 # Requirements
@@ -18,7 +18,7 @@ the quick way:
   
 # Crawled Data
 
-This project Crawls pdfs, It creates a folder name as icicilombard inside folder it creats another folder name as present financial year. inside that folder we will get every quarter pdf's
+This project Crawls pdfs, It creates a folder name as icicilombard, it creats another folder name as present financial year. inside that folder we will get every quarter pdf's
 
 # spiders
  $ scrapy
